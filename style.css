@@ -33,7 +33,7 @@ body{
 }
 
 .container.active{
-    width: 600px;
+    width: 50vw;
     box-shadow: 0 0px 40px;
     transition: 0.6s;
     border-radius: 5px;
